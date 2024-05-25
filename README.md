@@ -2,7 +2,9 @@
 
 
 Worked dump from broken PIX515E
+
 It's a full dump from AM29F400BT IC at motherboard (position U17)
+
 Contains Embedded BIOS v4.3 (from General Software) and some CISCO stuff
 
 
